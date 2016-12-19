@@ -1,6 +1,8 @@
 //flatMap с помощью for
-
-object For {
+/**
+  * Created by lu on 2016/12/19.
+  */
+object For{
 
   def main(args: Array[String]) {
 
